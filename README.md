@@ -16,7 +16,7 @@ The **Face Attendance System** is a real-time face recognition application desig
 - **Resources.zip**: Contains background images and different image modes, such as:
   - **Active images**: Background images used for real-time attendance.
   - **Marked images**: Images that are already used to mark attendance.
-- **appwrite_test.py**: A script for testing Appwrite integration with the system (optional for extended functionalities like user management).
+- **appwrite_test.py**: A script for uploading data to Appwrite database.
 - **main.py**: The main script that runs the face attendance system, handles face recognition, and logs the attendance in real-time.
 
 ### **Requirements:**
